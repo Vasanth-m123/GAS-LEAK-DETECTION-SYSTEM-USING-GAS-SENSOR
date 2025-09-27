@@ -90,9 +90,7 @@ void loop() {
 
 ## Output:
 
- 
-
-https://github.com/Vasanth-m123/GAS-LEAK-DETECTION-SYSTEM-USING-GAS-SENSOR.git
+https://github.com/user-attachments/assets/683c2561-7f36-44f5-9391-3e328906663b
   
 
 ## Result:
